@@ -4,7 +4,7 @@ This is a brief example of how to download a module off the internet and import 
 
 ## License
 
-All content of this project is under the MIT License.
+All content of this project are under the MIT License.
 
 ## Requirements
 
